@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ddeav\\source\\repos\\ISPrueba\\ISPrueba.csproj": {}
+    "C:\\GitHubDesktop\\ISPrueba\\ISPrueba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ddeav\\source\\repos\\ISPrueba\\ISPrueba.csproj": {
+    "C:\\GitHubDesktop\\ISPrueba\\ISPrueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ddeav\\source\\repos\\ISPrueba\\ISPrueba.csproj",
+        "projectUniqueName": "C:\\GitHubDesktop\\ISPrueba\\ISPrueba.csproj",
         "projectName": "ISPrueba",
-        "projectPath": "C:\\Users\\ddeav\\source\\repos\\ISPrueba\\ISPrueba.csproj",
+        "projectPath": "C:\\GitHubDesktop\\ISPrueba\\ISPrueba.csproj",
         "packagesPath": "C:\\Users\\ddeav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ddeav\\source\\repos\\ISPrueba\\obj\\",
+        "outputPath": "C:\\GitHubDesktop\\ISPrueba\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

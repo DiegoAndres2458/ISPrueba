@@ -8,77 +8,77 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ISPrueba
 build_property.RootNamespace = ISPrueba
-build_property.ProjectDir = C:\Users\ddeav\source\repos\ISPrueba\
+build_property.ProjectDir = C:\GitHubDesktop\ISPrueba\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ddeav\source\repos\ISPrueba
+build_property.MSBuildProjectDirectory = C:\GitHubDesktop\ISPrueba
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ddeav/source/repos/ISPrueba/Views/Correos/Create.cshtml]
+[C:/GitHubDesktop/ISPrueba/Views/Correos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29ycmVvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ddeav/source/repos/ISPrueba/Views/Correos/Delete.cshtml]
+[C:/GitHubDesktop/ISPrueba/Views/Correos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29ycmVvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ddeav/source/repos/ISPrueba/Views/Correos/Details.cshtml]
+[C:/GitHubDesktop/ISPrueba/Views/Correos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29ycmVvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ddeav/source/repos/ISPrueba/Views/Correos/Edit.cshtml]
+[C:/GitHubDesktop/ISPrueba/Views/Correos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29ycmVvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ddeav/source/repos/ISPrueba/Views/Correos/Index.cshtml]
+[C:/GitHubDesktop/ISPrueba/Views/Correos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29ycmVvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ddeav/source/repos/ISPrueba/Views/Home/Index.cshtml]
+[C:/GitHubDesktop/ISPrueba/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ddeav/source/repos/ISPrueba/Views/Home/Privacy.cshtml]
+[C:/GitHubDesktop/ISPrueba/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ddeav/source/repos/ISPrueba/Views/Personas/Create.cshtml]
+[C:/GitHubDesktop/ISPrueba/Views/Personas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ddeav/source/repos/ISPrueba/Views/Personas/Delete.cshtml]
+[C:/GitHubDesktop/ISPrueba/Views/Personas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ddeav/source/repos/ISPrueba/Views/Personas/Details.cshtml]
+[C:/GitHubDesktop/ISPrueba/Views/Personas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ddeav/source/repos/ISPrueba/Views/Personas/Edit.cshtml]
+[C:/GitHubDesktop/ISPrueba/Views/Personas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ddeav/source/repos/ISPrueba/Views/Personas/Index.cshtml]
+[C:/GitHubDesktop/ISPrueba/Views/Personas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ddeav/source/repos/ISPrueba/Views/Shared/Error.cshtml]
+[C:/GitHubDesktop/ISPrueba/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ddeav/source/repos/ISPrueba/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/GitHubDesktop/ISPrueba/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ddeav/source/repos/ISPrueba/Views/_ViewImports.cshtml]
+[C:/GitHubDesktop/ISPrueba/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ddeav/source/repos/ISPrueba/Views/_ViewStart.cshtml]
+[C:/GitHubDesktop/ISPrueba/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ddeav/source/repos/ISPrueba/Views/Shared/_Layout.cshtml]
+[C:/GitHubDesktop/ISPrueba/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-z029a95hmh
